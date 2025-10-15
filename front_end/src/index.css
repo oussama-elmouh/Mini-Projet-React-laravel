@@ -74,3 +74,8 @@
   color: #0ea5a4;
   border: 1px solid #0ea5a4;
 }
+.error {
+  color : red;
+  font-size: 12px;
+  margin-top: 0;
+}
